@@ -25,4 +25,5 @@ def number_guessing_game():
         
     if attempts == 0:
         print(f"Sorry, you've run out of attempts. The number was {number_to_guess}.")
+number_guessing_game()
 
